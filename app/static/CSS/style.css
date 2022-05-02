@@ -1,0 +1,24 @@
+img{
+height:10vh;
+width:10vh;
+}
+
+
+.title{
+    color: red;
+}
+
+body{
+
+    background-image: url('https://media.istockphoto.com/photos/abstract-futuristic-background-with-a-pedestal-picture-id1311473275?b=1&k=20&m=1311473275&s=170667a&w=0&h=TQrpH65THptzwZHrMLx6Z5ItaG3aG2rCIYNt8l59NQk=');
+    color: aliceblue;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bord{
+    /* border: solid red; */
+    margin-top: 2cm;
+    justify-content: center;
+    
+}
