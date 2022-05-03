@@ -1,7 +1,8 @@
 img{
-height:35vh;
-width:35vh;
+height:50vh;
+width:50vh;
 justify-items: center;
+border-radius: 25px;
 }
 
 
@@ -15,15 +16,30 @@ body{
     color: aliceblue;
     background-repeat: no-repeat;
     background-size: cover;
+    opacity: 3;
     
 }
 
 .bord{
     
     margin-top: 1.5cm;
+    display: flex;
+    border: solid;
     justify-content: center;
-    /* border: solid; */
-    justify-content: center;
-    text-justify: auto;
+    align-items: center;
+    text-align: center;
+    border-radius: 20px;
+    /* flex-wrap: wrap; */
+    width: 70%;
+    font-family: 'Times New Roman', Times, serif;
     
+}
+
+
+button{
+    width: 15vh;
+    height: 4vh;
+    background-color: darkorange;
+    color: black;
+    border-radius: 2px;
 }
