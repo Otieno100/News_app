@@ -1,6 +1,7 @@
 img{
-height:10vh;
-width:10vh;
+height:35vh;
+width:35vh;
+justify-items: center;
 }
 
 
@@ -14,11 +15,15 @@ body{
     color: aliceblue;
     background-repeat: no-repeat;
     background-size: cover;
+    
 }
 
 .bord{
     
     margin-top: 1.5cm;
     justify-content: center;
+    /* border: solid; */
+    justify-content: center;
+    text-justify: auto;
     
 }

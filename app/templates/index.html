@@ -14,10 +14,12 @@
 <ul>
     {%for article in articles%}
     <div class="bord">
-        <img src="  {{article.urlToImage}}" alt="">
+      
         <p class="title">{{article.title}}</p>
+      
         <p>{{article.description}}</p>
         <p>{{article.publishedAt}}</p>
+        <img src="  {{article.urlToImage}}" alt="">
         
     
     </div>
