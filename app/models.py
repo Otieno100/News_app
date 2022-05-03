@@ -13,7 +13,7 @@ class News :
 class Review:
     all_reviews = []
 
-    def __init__(self,title,urlToImage,review, url) :
+    def __init__(self,title,urlToImage,review, url):
         self.title = title
         self.urlToImage = urlToImage
         self.url = url
