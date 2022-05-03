@@ -18,3 +18,11 @@ def index():
 def navbar():
 
     return render_template('navbar.html')
+
+
+@main.route('/news')
+def news():
+
+    return render_template('news.html')
+
+    
