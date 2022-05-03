@@ -3,7 +3,6 @@ from flask import render_template
 import app
 from .import main
 from ..request import get_news
-# from .forms import ReviewForm
 from ..models import Review
 
 
