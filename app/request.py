@@ -27,6 +27,9 @@ def get_news():
             # REVIEWS
 
 
+            
+
+
 
 
 def process_results(news_list):
