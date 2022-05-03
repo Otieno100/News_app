@@ -24,10 +24,7 @@ def get_news():
             return news_results
 
 
-            # REVIEWS
-
-
-            
+        
 
 
 
