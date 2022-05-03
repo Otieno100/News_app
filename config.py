@@ -8,7 +8,6 @@ class Config :
 class prodConfig (Config):
         pass
 class DevConfig(Config):
-
     DEBUG = True
 
 config_options = {
